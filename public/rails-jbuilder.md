@@ -20,7 +20,7 @@ jbuilder は、Ruby on Rails で JSON を生成するためのテンプレート
 
 jbuilder は、Ruby on Rails において、JSON 形式のデータを生成するためのテンプレートエンジンです。Rails アプリケーションにおいて、データを JSON 形式で提供する必要がある場合、jbuilder はそのプロセスを簡単かつ効率的にします。以下に、jbuilder の主な特徴をいくつか挙げます： -->
 
-# 環境設定 ： jbuidler を使うための準備
+# 環境設定
 
 ### Gem のインストール
 
