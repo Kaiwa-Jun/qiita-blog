@@ -14,7 +14,8 @@ ignorePublish: false
 
 # はじめに
 
-jbuilder は、Ruby on Rails で JSON を生成するための Gem です。この記事では、jbuilder の基本的な使い方をまとめてみました。
+jbuilder は、Ruby on Rails で JSON を生成するための Gem です。
+この記事では、jbuilder の基本的な使い方をまとめてみました。
 
 # 環境設定
 
